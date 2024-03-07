@@ -1,6 +1,6 @@
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --azul: #1972c5;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
@@ -27,7 +27,7 @@
     
     }
     .titulo-principal span {
-    color: var(--verde);
+    color: var(--azul);
     }
     .botao {
     font-family: "Crakra Petch", sans-serif;
@@ -51,7 +51,7 @@
     
     .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--azul);
     }
     
     @media screen and (min-width: 768px) {
