@@ -1,7 +1,7 @@
 :root {
     --cor-de-fundo: #16c3ee;
     --verde: #0af3e0;
-    --branco: #FFFFFF;
+    --branco: #04e62a;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
     --texto-fundo: #3a375e4d;
@@ -9,7 +9,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--verde);
 
 }
 
@@ -37,7 +37,7 @@ body {
 .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
-    color: var(--branco);
+    color: var(--verde);
     display: flex;
     justify-content: center;
     padding: 1em;
