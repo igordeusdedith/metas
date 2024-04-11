@@ -1,6 +1,6 @@
 :root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --cor-de-fundo: #16c3ee;
+    --verde: #0af3e0;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
@@ -106,6 +106,6 @@ body {
 
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--verde);
+    color: var(--azul);
     text-transform: uppercase;
 }
